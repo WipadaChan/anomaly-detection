@@ -5,7 +5,7 @@ The Anomaly Detector API enables you to monitor and find abnormalities in your t
 ## Prerequisites
 
 1. You must have an [Anomaly Detector API resource](https://aka.ms/adnew). Before continuing, you will need the API key and the endpoint from your Azure dashboard.
-   ![Get Anomaly Detector access keys](./media/cognitive-services-get-access-keys.png "Get Anomaly Detector access keys")
+   ![Get Anomaly Detector access keys](https://github.com/Azure-Samples/AnomalyDetector/blob/master/media/cognitive-services-get-access-keys.png "Get Anomaly Detector access keys")
 2. Azure Databrick cluster (up and running). To create Azure Databrick cluster, plese refer to https://docs.microsoft.com/en-us/azure/databricks/scenarios/quickstart-create-databricks-workspace-portal?tabs=azure-portal  
 3. IoT Hub endpoint for feeding [Raspberry Pi Simulation data](https://azure-samples.github.io/raspberry-pi-web-simulator/)
 
