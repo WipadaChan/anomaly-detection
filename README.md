@@ -11,6 +11,6 @@ The Anomaly Detector API enables you to monitor and find abnormalities in your t
 
 ## Overview Architecture 
 
-![alt text](https://github.com/WipadaChan/anomaly-detection/blob/master/image/overview.png "Overview Architecture") 
+![alt text](https://github.com/WipadaChan/anomaly-detection/blob/main/image/overview.png "Overview Architecture") 
 
 
