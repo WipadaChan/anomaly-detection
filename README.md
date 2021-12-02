@@ -14,7 +14,7 @@ The Anomaly Detector API enables you to monitor and find abnormalities in your t
 3. IoT Hub endpoint for feeding [Raspberry Pi Simulation data](https://azure-samples.github.io/raspberry-pi-web-simulator/). Follow instruction and hit start, so it will sending telemetry data to IoT Hub
 4. Power BI Stream Dataset, for how to create please refer to [the link here](https://docs.microsoft.com/en-us/power-bi/connect-data/service-real-time-streaming#pushing-data-to-datasets). Please ensure that you create dataset with have same structure and data type as data that you want to push during writeStream step. 
 Here is my Power BI Streaming Dataset structure: 
-![alt text](https://github.com/WipadaChan/anomaly-detection/blob/main/image/PBISteamDataset.png)
+![alt text](https://github.com/WipadaChan/anomaly-detection/blob/main/image/PBISteamDataset.png =x250)
 
 
 ### Anomaly Dector API
